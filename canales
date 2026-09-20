@@ -1,5 +1,25 @@
-#EXTM3U
-#EXTINF:0,Canal 5
-https://www.telegratis2.com/canal-5-en-vivo.php
-#EXTINF:0,Canal 7
-https://www.tvazteca.com/azteca7/peliculas/envivo
+- -> 8.243.126.131:8000/playlist.m3u8
+- -> 38.97.240.11:8000/playlist.m3u8
+- -> 38.137.192.250:8000/playlist.m3u8
+- -> 38.188.186.47:4000/playlist.m3u8
+- -> 38.199.4.105:9999/playlist.m3u8
+- -> 38.199.5.160:8000/playlist.m3u8
+- -> 38.210.3.64:8090/playlist.m3u8
+- -> 45.173.75.4:2061/playlist.m3u8
+- -> 45.230.48.105:28000/playlist.m3u8
+- -> 141.136.61.2:8000/playlist.m3u8
+- -> 147.135.114.221:8001/playlist.m3u8
+- -> 148.230.149.45:1020/playlist.m3u8
+- -> 148.230.149.45:1021/playlist.m3u8
+- -> 177.53.153.207:8000/playlist.m3u8
+- -> 177.93.46.245:50000/playlist.m3u8
+- -> 179.60.224.196:8000/playlist.m3u8
+- -> 181.78.12.119:16123/playlist.m3u8
+- -> 181.78.50.191:7225/playlist.m3u8
+- -> 181.78.211.244:8005/playlist.m3u8
+- -> 181.205.205.173:8888/playlist.m3u8
+- -> 181.224.200.5:2277/playlist.m3u8
+- -> 181.224.255.210:8001/playlist.m3u8
+- -> 199.188.103.176:8000/playlist.m3u8
+- -> 200.35.176.154:8000/playlist.m3u8
+- -> 200.59.188.3:8000/playlist.m3u8
